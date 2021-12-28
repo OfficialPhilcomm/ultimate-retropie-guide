@@ -7,7 +7,8 @@
 - [Master Setup](#master-setup)
   - [Optimization](#optimization)
   - [Additional packages](#additional-packages)
-  - [Menu Background Music](#menu-background-music)
+    - [RetroPie Extra](#retropie-extra)
+    - [Menu Background Music](#menu-background-music)
 
 # Ultimate RetroPie Guide
 
@@ -47,4 +48,6 @@ TODO
 
 ## Additional packages
 
-## Menu Background Music
+### RetroPie Extra
+
+### Menu Background Music
